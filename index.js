@@ -6,6 +6,7 @@ const CrawlerUserAgents = [
   'yahoo',
   'bingbot',
   'baiduspider',
+  'Baiduspider',
   'facebookexternalhit',
   'twitterbot',
   'rogerbot',
